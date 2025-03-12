@@ -28,9 +28,6 @@
 [submodule "rust-sdk"]
 	path = rust-sdk
 	url = https://github.com/modelcontextprotocol/rust-sdk.git
-[submodule ".github"]
-	path = .github
-	url = https://github.com/modelcontextprotocol/.github.git
 [submodule "create-python-server"]
 	path = create-python-server
 	url = https://github.com/modelcontextprotocol/create-python-server.git
