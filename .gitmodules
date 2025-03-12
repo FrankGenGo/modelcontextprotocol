@@ -1,0 +1,39 @@
+[submodule "python-sdk"]
+	path = python-sdk
+	url = https://github.com/modelcontextprotocol/python-sdk.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/modelcontextprotocol/docs.git
+[submodule "java-sdk"]
+	path = java-sdk
+	url = https://github.com/modelcontextprotocol/java-sdk.git
+[submodule "kotlin-sdk"]
+	path = kotlin-sdk
+	url = https://github.com/modelcontextprotocol/kotlin-sdk.git
+[submodule "inspector"]
+	path = inspector
+	url = https://github.com/modelcontextprotocol/inspector.git
+[submodule "typescript-sdk"]
+	path = typescript-sdk
+	url = https://github.com/modelcontextprotocol/typescript-sdk.git
+[submodule "servers"]
+	path = servers
+	url = https://github.com/modelcontextprotocol/servers.git
+[submodule "quickstart-resources"]
+	path = quickstart-resources
+	url = https://github.com/modelcontextprotocol/quickstart-resources.git
+[submodule "specification"]
+	path = specification
+	url = https://github.com/modelcontextprotocol/specification.git
+[submodule "rust-sdk"]
+	path = rust-sdk
+	url = https://github.com/modelcontextprotocol/rust-sdk.git
+[submodule ".github"]
+	path = .github
+	url = https://github.com/modelcontextprotocol/.github.git
+[submodule "create-python-server"]
+	path = create-python-server
+	url = https://github.com/modelcontextprotocol/create-python-server.git
+[submodule "create-typescript-server"]
+	path = create-typescript-server
+	url = https://github.com/modelcontextprotocol/create-typescript-server.git
